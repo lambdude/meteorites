@@ -6,4 +6,9 @@ An application that finds the closest meteor landing site using NASA data
 
 This project request Python 3 and the requests package.
 
-`python3 meteorites.py`
+First, install `pipenv`. Then:
+
+```
+pipenv install
+pipenv run python meteorites.py
+```
